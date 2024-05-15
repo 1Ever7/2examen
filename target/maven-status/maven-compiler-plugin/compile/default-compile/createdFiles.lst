@@ -1,0 +1,5 @@
+com\emergentes\estudiante\conDB.class
+com\emergentes\DAOS\estudianteDAOimpl.class
+com\emergentes\modelo\Estudiante.class
+com\emergentes\serestudiante\MainServletEstu.class
+com\emergentes\DAOS\estudianteDAO.class
